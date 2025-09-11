@@ -1,0 +1,239 @@
+/* Article Page Styles */
+.article-container {
+    padding: 3rem 0;
+    min-height: 70vh;
+}
+
+.article-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.article-meta-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 1rem;
+}
+
+.article-category {
+    display: inline-block;
+    padding: 5px 20px;
+    background: var(--accent-color);
+    color: var(--text-dark);
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.article-date {
+    color: var(--text-light);
+    font-size: 0.95rem;
+}
+
+.article-title {
+    font-size: 2.5rem;
+    font-family: 'Shadows Into Light', cursive;
+    color: var(--text-dark);
+    margin-bottom: 1rem;
+    line-height: 1.3;
+}
+
+.article-author {
+    color: var(--text-light);
+    font-size: 1.1rem;
+}
+
+.author-name {
+    color: var(--primary-color);
+}
+
+.article-image-container {
+    margin-bottom: 3rem;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    border: 3px solid var(--primary-color);
+}
+
+.article-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.article-content {
+    max-width: 800px;
+    margin: 0 auto 3rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-dark);
+}
+
+.article-content p {
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.article-content h2 {
+    font-size: 1.8rem;
+    margin: 2rem 0 1rem;
+    color: var(--text-dark);
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.article-content ul,
+.article-content ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+}
+
+.article-content li {
+    margin-bottom: 0.8rem;
+}
+
+/* Share Section */
+.share-section {
+    text-align: center;
+    padding: 2rem;
+    background: var(--bg-light);
+    border-radius: 25px;
+    margin-bottom: 3rem;
+}
+
+.share-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-dark);
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.share-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.share-btn {
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.share-btn.facebook {
+    background: #1877f2;
+}
+
+.share-btn.twitter {
+    background: #1da1f2;
+}
+
+.share-btn.linkedin {
+    background: #0a66c2;
+}
+
+.share-btn.email {
+    background: var(--secondary-color);
+}
+
+.share-btn:hover {
+    transform: translateY(-5px) scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Related Articles */
+.related-articles {
+    margin-bottom: 3rem;
+}
+
+.related-articles h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    color: var(--text-dark);
+}
+
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.related-card {
+    background: var(--bg-white);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.related-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.related-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.related-content {
+    padding: 1.5rem;
+}
+
+.related-title {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-dark);
+    font-weight: 600;
+}
+
+.related-excerpt {
+    color: var(--text-light);
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .article-title {
+        font-size: 1.8rem;
+    }
+    
+    .article-content {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+    
+    .related-grid {
+        grid-template-columns: 1fr;
+        padding: 0 1rem;
+    }
+    
+    .share-buttons {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 480px) {
+    .article-meta-top {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .article-title {
+        font-size: 1.5rem;
+    }
+}

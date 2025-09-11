@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Vivahorizon</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="products.css">
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header class="main-header">
+        <nav class="navbar">
+            <a href="index.html" class="logo">
+                <svg class="logo-svg" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M10,30 Q20,20 30,30 T50,30" stroke="#4a90e2" stroke-width="3" fill="none" class="logo-path"/>
+                    <circle cx="30" cy="30" r="20" fill="none" stroke="#e94b3c" stroke-width="2" stroke-dasharray="2,3"/>
+                    <text x="60" y="35" font-family="Kalam, cursive" font-size="24" fill="#2c3e50" class="logo-text">Vivahorizon</text>
+                </svg>
+            </a>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="index.html#blog" class="nav-link">Blog</a></li>
+                <li><a href="products.html" class="nav-link active">Products</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Products Hero -->
+    <section class="products-hero">
+        <div class="container">
+            <h1 class="page-title">Featured Products</h1>
+            <p class="page-subtitle">Carefully selected and thoroughly tested products we recommend</p>
+        </div>
+    </section>
+
+    <!-- Products Grid -->
+    <section class="products-section">
+        <div class="container">
+            <div class="products-grid">
+                <!-- Product 1 -->
+                <div class="product-card">
+                    <div class="product-badge">Editor's Choice</div>
+                    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop" alt="Sony WH-1000XM5" class="product-image">
+                    <div class="product-content">
+                        <h3 class="product-title">Sony WH-1000XM5 Headphones</h3>
+                        <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                            <span class="rating-text">4.8/5 (324 reviews)</span>
+                        </div>
+                        <p class="product-description">Industry-leading noise cancellation with exceptional sound quality. Perfect for travel, work, and immersive listening experiences.</p>
+                        <div class="product-features">
+                            <span class="feature-tag">30hr Battery</span>
+                            <span class="feature-tag">Active NC</span>
+                            <span class="feature-tag">Hi-Res Audio</span>
+                        </div>
+                        <div class="product-price">
+                            <span class="price-current">$349</span>
+                            <span class="price-original">$399</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn-primary">View Details</button>
+                            <button class="btn-secondary">
+                                <i class="fas fa-external-link-alt"></i> Buy Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 2 -->
+                <div class="product-card">
+                    <div class="product-badge hot">Best Seller</div>
+                    <img src="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=400&h=300&fit=crop" alt="Apple Watch Series 9" class="product-image">
+                    <div class="product-content">
+                        <h3 class="product-title">Apple Watch Series 9</h3>
+                        <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <span class="rating-text">4.9/5 (512 reviews)</span>
+                        </div>
+                        <p class="product-description">Advanced health tracking, fitness features, and seamless integration with your Apple devices. The ultimate smartwatch experience.</p>
+                        <div class="product-features">
+                            <span class="feature-tag">GPS + Cellular</span>
+                            <span class="feature-tag">Blood O2</span>
+                            <span class="feature-tag">ECG</span>
+                        </div>
+                        <div class="product-price">
+                            <span class="price-current">$399</span>
+                            <span class="price-original">$429</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn-primary">View Details</button>
+                            <button class="btn-secondary">
+                                <i class="fas fa-external-link-alt"></i> Buy Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 3 -->
+                <div class="product-card">
+                    <img src="https://images.unsplash.com/photo-1585565804112-f201f68212d1?w=400&h=300&fit=crop" alt="DJI Mini 3 Pro" class="product-image">
+                    <div class="product-content">
+                        <h3 class="product-title">DJI Mini 3 Pro Drone</h3>
+                        <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <span class="rating-text">4.9/5 (189 reviews)</span>
+                        </div>
+                        <p class="product-description">Lightweight drone with professional features. 4K video, obstacle avoidance, and 34-minute flight time in a portable package.</p>
+                        <div class="product-features">
+                            <span class="feature-tag">4K/60fps</span>
+                            <span class="feature-tag">249g Weight</span>
+                            <span class="feature-tag">ActiveTrack</span>
+                        </div>
+                        <div class="product-price">
+                            <span class="price-current">$759</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn-primary">View Details</button>
+                            <button class="btn-secondary">
+                                <i class="fas fa-external-link-alt"></i> Buy Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 4 -->
+                <div class="product-card">
+                    <div class="product-badge new">New</div>
+                    <img src="https://images.unsplash.com/photo-1611532736579-6b16e2786cdf?w=400&h=300&fit=crop" alt="Samsung Galaxy Tab S9" class="product-image">
+                    <div class="product-content">
+                        <h3 class="product-title">Samsung Galaxy Tab S9</h3>
+                        <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                            <span class="rating-text">4.7/5 (92 reviews)</span>
+                        </div>
+                        <p class="product-description">Premium Android tablet with S Pen included. Perfect for productivity, creativity, and entertainment on the go.</p>
+                        <div class="product-features">
+                            <span class="feature-tag">AMOLED 120Hz</span>
+                            <span class="feature-tag">S Pen</span>
+                            <span class="feature-tag">DeX Mode</span>
+                        </div>
+                        <div class="product-price">
+                            <span class="price-current">$799</span>
+                            <span class="price-original">$899</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn-primary">View Details</button>
+                            <button class="btn-secondary">
+                                <i class="fas fa-external-link-alt"></i> Buy Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 5 -->
+                <div class="product-card">
+                    <img src="https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&h=300&fit=crop" alt="iPhone 15 Pro" class="product-image">
+                    <div class="product-content">
+                        <h3 class="product-title">iPhone 15 Pro</h3>
+                        <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <span class="rating-text">4.9/5 (1,024 reviews)</span>
+                        </div>
+                        <p class="product-description">Titanium design, A17 Pro chip, and advanced camera system. The most powerful iPhone ever created.</p>
+                        <div class="product-features">
+                            <span class="feature-tag">A17 Pro</span>
+                            <span class="feature-tag">Titanium</span>
+                            <span class="feature-tag">Action Button</span>
+                        </div>
+                        <div class="product-price">
+                            <span class="price-current">$999</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn-primary">View Details</button>
+                            <button class="btn-secondary">
+                                <i class="fas fa-external-link-alt"></i> Buy Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 6 -->
+                <div class="product-card">
+                    <img src="https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=300&fit=crop" alt="GoPro Hero 12" class="product-image">
+                    <div class="product-content">
+                        <h3 class="product-title">GoPro Hero 12 Black</h3>
+                        <div class="product-rating">
+                            <div class="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                            <span class="rating-text">4.6/5 (445 reviews)</span>
+                        </div>
+                        <p class="product-description">5.3K video, Emmy Award-winning HyperSmooth 6.0 stabilization, and waterproof to 33ft. The ultimate action camera.</p>
+                        <div class="product-features">
+                            <span class="feature-tag">5.3K Video</span>
+                            <span class="feature-tag">Waterproof</span>
+                            <span class="feature-tag">HDR</span>
+                        </div>
+                        <div class="product-price">
+                            <span class="price-current">$349</span>
+                            <span class="price-original">$399</span>
+                        </div>
+                        <div class="product-actions">
+                            <button class="btn-primary">View Details</button>
+                            <button class="btn-secondary">
+                                <i class="fas fa-external-link-alt"></i> Buy Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Media Widget -->
+    <div class="social-widget">
+        <div class="social-title">Follow Us</div>
+        <a href="https://facebook.com" target="_blank" class="social-link"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com" target="_blank" class="social-link"><i class="fab fa-twitter"></i></a>
+        <a href="https://instagram.com" target="_blank" class="social-link"><i class="fab fa-instagram"></i></a>
+        <a href="https://linkedin.com" target="_blank" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://youtube.com" target="_blank" class="social-link"><i class="fab fa-youtube"></i></a>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="back-to-top" aria-label="Back to top">
+        <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>About Vivahorizon</h3>
+                    <p>We provide honest reviews and recommendations to help you make informed decisions about products and platforms.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Newsletter</h3>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your email..." class="newsletter-input">
+                        <button type="submit" class="newsletter-button">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Vivahorizon. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="products.js"></script>
+</body>
+</html>

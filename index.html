@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vivahorizon - Discover the Best Products & Platforms</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header class="main-header">
+        <nav class="navbar">
+            <a href="index.html" class="logo">
+                <svg class="logo-svg" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M10,30 Q20,20 30,30 T50,30" stroke="#4a90e2" stroke-width="3" fill="none" class="logo-path"/>
+                    <circle cx="30" cy="30" r="20" fill="none" stroke="#e94b3c" stroke-width="2" stroke-dasharray="2,3"/>
+                    <text x="60" y="35" font-family="Kalam, cursive" font-size="24" fill="#2c3e50" class="logo-text">Vivahorizon</text>
+                </svg>
+            </a>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link active">Home</a></li>
+                <li><a href="#blog" class="nav-link">Blog</a></li>
+                <li><a href="products.html" class="nav-link">Products</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-background">
+            <div class="hero-shape shape-1"></div>
+            <div class="hero-shape shape-2"></div>
+            <div class="hero-shape shape-3"></div>
+            <div class="floating-elements">
+                <span class="float-element" style="--delay: 0s; --duration: 15s;">📝</span>
+                <span class="float-element" style="--delay: 3s; --duration: 18s;">💡</span>
+                <span class="float-element" style="--delay: 6s; --duration: 20s;">🚀</span>
+                <span class="float-element" style="--delay: 9s; --duration: 16s;">⭐</span>
+                <span class="float-element" style="--delay: 12s; --duration: 22s;">📊</span>
+            </div>
+        </div>
+        <div class="hero-content">
+            <div class="hero-text">
+                <div class="hero-badge">🎯 #1 Tech Review Platform</div>
+                <h1 class="hero-title">
+                    <span class="title-line">Discover the</span>
+                    <span class="title-highlight">Best Products</span>
+                    <span class="title-line">for Your Needs</span>
+                </h1>
+                <p class="hero-subtitle">Expert reviews, honest recommendations, and in-depth comparisons to help you make informed decisions</p>
+                <div class="hero-buttons">
+                    <button class="cta-button primary" onclick="scrollToSection('blog')">
+                        <span>Start Exploring</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                    <button class="cta-button secondary" onclick="window.location.href='products.html'">
+                        <i class="fas fa-box-open"></i>
+                        <span>View Products</span>
+                    </button>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-number">500+</span>
+                        <span class="stat-label">Reviews</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">50K+</span>
+                        <span class="stat-label">Readers</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">4.9★</span>
+                        <span class="stat-label">Rating</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="hero-card-stack">
+                    <div class="hero-card card-1">
+                        <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop" alt="Featured Product">
+                        <div class="card-content">
+                            <span class="card-badge">Top Pick</span>
+                            <h4>Premium Headphones</h4>
+                        </div>
+                    </div>
+                    <div class="hero-card card-2">
+                        <img src="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=300&h=200&fit=crop" alt="Smart Watch">
+                        <div class="card-content">
+                            <span class="card-badge">Trending</span>
+                            <h4>Smart Watch Pro</h4>
+                        </div>
+                    </div>
+                    <div class="hero-card card-3">
+                        <img src="https://images.unsplash.com/photo-1585565804112-f201f68212d1?w=300&h=200&fit=crop" alt="Drone">
+                        <div class="card-content">
+                            <span class="card-badge">New</span>
+                            <h4>Professional Drone</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="hero-wave">
+            <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+                <path d="M0,20 C150,60 350,0 600,30 C850,60 1050,10 1290,30 L1440,0 L1440,120 L0,120 Z" fill="var(--bg-light)"></path>
+            </svg>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="blog-section">
+        <div class="container">
+            <h2 class="section-title">Latest Blog Posts</h2>
+            
+            <!-- Search and Filter -->
+            <div class="blog-controls">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search articles..." class="search-input">
+                    <i class="fas fa-search search-icon"></i>
+                </div>
+                <div class="category-filter">
+                    <select id="categoryFilter" class="category-select">
+                        <option value="all">All Categories</option>
+                        <option value="product-review">Product Reviews</option>
+                        <option value="platform-review">Platform Reviews</option>
+                        <option value="tech-guide">Tech Guides</option>
+                        <option value="lifestyle">Lifestyle</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Blog Grid -->
+            <div id="blogGrid" class="blog-grid">
+                <!-- Blog posts will be dynamically loaded here -->
+            </div>
+
+            <!-- Pagination -->
+            <div class="pagination" id="pagination">
+                <!-- Pagination buttons will be generated here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Media Widget -->
+    <div class="social-widget">
+        <div class="social-title">Follow Us</div>
+        <a href="https://facebook.com" target="_blank" class="social-link"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com" target="_blank" class="social-link"><i class="fab fa-twitter"></i></a>
+        <a href="https://instagram.com" target="_blank" class="social-link"><i class="fab fa-instagram"></i></a>
+        <a href="https://linkedin.com" target="_blank" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://youtube.com" target="_blank" class="social-link"><i class="fab fa-youtube"></i></a>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="back-to-top" aria-label="Back to top">
+        <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>About Vivahorizon</h3>
+                    <p>We provide honest reviews and recommendations to help you make informed decisions about products and platforms.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Newsletter</h3>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your email..." class="newsletter-input">
+                        <button type="submit" class="newsletter-button">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Vivahorizon. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="blog-data-enhanced.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
