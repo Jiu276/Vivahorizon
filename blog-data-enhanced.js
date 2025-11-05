@@ -983,7 +983,7 @@ Transforming your living space doesn't require a complete overhaul. Strategic fu
 The combination of warm materials, modern silhouettes, thoughtful functionality, and accessible pricing makes <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=09f5Y1AOadXK82z_a3y5q09qLWTWbhfCi0cDT9Srw9ccvM5UY1WTw_bbzo1_aDb6JhL0TJ3xynp2v4_c&new=https%3A%2F%2Fwww.miliboo.de%2F" target="_blank">Miliboo</a> an excellent choice for anyone seeking to create a home that feels both contemporary and genuinely welcoming. Explore their collection and discover how the right furniture can transform your house into a warm, modern sanctuary that perfectly reflects your lifestyle and taste.`,
         category: "product-review",
         image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
-        date: "2025-10-28",
+        date: "2025-09-22",
         author: "Sophie Laurent"
     }
 ];
