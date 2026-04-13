@@ -540,19 +540,19 @@ If you want to see it for yourself, start with the product page on <a href="http
 
 "What is this sorcery?" I asked her on day two, face-down in her guest bed at 10 AM.
 
-She laughed. "It's just good bedding. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">Frette</a>. I got it after my back surgery. Changed everything."
+She laughed. "It's just <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">good bedding</a>. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">Frette</a>. I got it after my back surgery. Changed everything."
 
 **The Sticker Shock Was Real**
 
 I looked it up on the train ride home. My first reaction? "Absolutely not." My second reaction, after another week of my sad, lumpy pillow? "...Maybe?"
 
-Here's the thing nobody tells you about cheap bedding: you're not actually saving money. I'd been replacing my duvet every two years because it would get weird—clumpy in some spots, flat in others, and somehow always cold on my feet. My pillows turned into pancakes within months. I was spending $80-100 every couple years on replacements, plus dealing with progressively worse sleep.
+Here's the thing nobody tells you about cheap bedding: you're not actually saving money. I'd been replacing my <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">duvet</a> every two years because it would get weird—clumpy in some spots, flat in others, and somehow always cold on my feet. My <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">pillows</a> turned into pancakes within months. I was spending $80-100 every couple years on replacements, plus dealing with progressively worse sleep.
 
-So I did the math. If a quality duvet lasts ten years (my sister's was on year seven and still perfect), the cost per night was... actually reasonable. Still hurt to click "purchase," not gonna lie.
+So I did the math. If a <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">quality duvet</a> lasts ten years (my sister's was on year seven and still perfect), the cost per night was... actually reasonable. Still hurt to click "purchase," not gonna lie.
 
 **That First Night Though**
 
-The box arrived, and I immediately questioned my life choices. It was so light I thought they forgot to include the actual duvet. Nope—that's just what quality down feels like before you fluff it up.
+The box arrived, and I immediately questioned my life choices. It was so light I thought they forgot to include the actual duvet. Nope—that's just what <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">quality down</a> feels like before you fluff it up.
 
 I made my bed, feeling very fancy and adult. Climbed in that night expecting... I don't know, angels singing? Instead, it just felt nice. Comfortable. I fell asleep reading and didn't wake up until morning, which literally never happens. I'm usually up twice to pee and once because my shoulder hurts.
 
@@ -560,19 +560,19 @@ The second night, I realized I hadn't woken up cold. The third night, my partner
 
 **The Pillow Situation**
 
-I held off on the pillows for two months because I'd already spent so much. But my neck was still being a jerk every morning, and I kept thinking about how good I felt at my sister's place.
+I held off on the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">pillows</a> for two months because I'd already spent so much. But my neck was still being a jerk every morning, and I kept thinking about how good I felt at my sister's place.
 
-The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">Frette</a> website has this whole guide about sleep positions and pillow firmness. I'm a side sleeper who apparently needed medium-firm support. My partner's a back sleeper who needed something flatter. We ordered both, and I spent the next week annoying everyone by talking about my neck.
+The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">Frette website</a> has this whole guide about sleep positions and pillow firmness. I'm a side sleeper who apparently needed <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">medium-firm support</a>. My partner's a back sleeper who needed something flatter. We ordered both, and I spent the next week annoying everyone by talking about my neck.
 
 "My neck doesn't hurt."
 "Cool, you mentioned that."
 "No, but like, it REALLY doesn't hurt. I didn't realize how much it always hurt until it stopped hurting."
 
-The pillows don't go flat. Even now, eight months later, they're still... puffy? Is that the technical term? They just maintain their shape. I'm not constantly folding my pillow in half at 3 AM trying to get enough support.
+The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">pillows</a> don't go flat. Even now, eight months later, they're still... puffy? Is that the technical term? They just maintain their shape. I'm not constantly folding my pillow in half at 3 AM trying to get enough support.
 
 **The Weird Details I Didn't Expect to Care About**
 
-The duvet has these little loops in the corners so it actually stays put inside the cover. Genius. Why don't all duvets have this? I've spent years wrestling with duvet covers like I'm trying to fold a fitted sheet while drunk.
+The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=b32d4pIwJ7qzdvUyfqnm_aXy1_bYADqKMlYSF3sjtgSp_a6P8ATyAhFhsdaaRUjXII8fZE_c&new=https%3A%2F%2Fwww.frette.com%2F" target="_blank">duvet</a> has these little loops in the corners so it actually stays put inside the cover. Genius. Why don't all duvets have this? I've spent years wrestling with duvet covers like I'm trying to fold a fitted sheet while drunk.
 
 Also, no feathers poking through. My old down duvet (RIP) would occasionally stab me with a rogue feather. Very romantic, waking up at 2 AM to pluck a feather out of your face.
 
