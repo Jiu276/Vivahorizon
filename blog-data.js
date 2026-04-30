@@ -647,5 +647,61 @@ With over 1.6 million tickets out there, your next adventure is probably already
         image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=600&fit=crop",
         date: "2026-03-05",
         author: "Alexandra Mitchell"
+    },
+    {
+        id: 27,
+        title: "Merlin Cycles Stock Q36.5 Cycle Clothing – Performance Racing Gear for Every Rider",
+        excerpt: "Explore how Merlin Cycles stocks Q36.5 cycle clothing for riders who want breathable fabrics, aerodynamic fits, and dependable comfort across training rides, race days, and all-weather commutes.",
+        content: `Serious cyclists know that the right apparel can make or break a ride. When your jersey overheats on a climb or your bib shorts lose support after long mileage, performance drops quickly. That's why so many riders are checking <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> for premium race-ready kit, especially the latest Q36.5 range designed for comfort under pressure.
+
+        **Q36.5 Technology That Feels Different**
+
+        What makes Q36.5 stand out is its focus on thermoregulation and body-mapped construction. Instead of relying on thick layers, many pieces use high-density woven fabrics that stay light while managing heat effectively. Available through <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a>, this clothing is built for riders who push hard in mixed weather and still want all-day comfort.
+
+        **Performance Fit for Racing and Training**
+
+        A race fit can feel restrictive when done poorly, but Q36.5 pieces are cut to support movement on the bike position. Sleeves and panel seams are placed to reduce drag while keeping pressure balanced across shoulders and core. Whether you ride carbon <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Bikes</a> for weekend races or train on endurance setups, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> gives you access to apparel that works at higher intensity.
+
+        **Built for Real Conditions**
+
+        Riders in the UK and Europe often face shifting weather during a single session. A cool start can become warm midday, then windy on the descent home. Q36.5 gear handles those transitions with fast-drying materials and strategic ventilation zones. Pairing this clothing with quality components and <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Bikes</a> from <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> helps create a complete setup focused on efficiency and consistency.
+
+        **Why Riders Choose Merlin Cycles**
+
+        Beyond product range, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> is trusted for offering serious cycling brands, clear sizing guidance, and gear options for beginners through elite racers. If you are upgrading your kit for faster group rides, sportive events, or your first race season, the Q36.5 collection is a strong place to start.
+
+        For riders who care about watts, comfort, and durability, combining advanced clothing with high-performance <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Bikes</a> is a practical upgrade. The Q36.5 range at <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> delivers exactly that balance for everyday training and race-day ambitions.`,
+        category: "product-review",
+        image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        date: "2026-03-23",
+        author: "Oliver Bennett"
+    },
+    {
+        id: 28,
+        title: "30 Years of Cycling Excellence – Merlin Cycles Since 1993",
+        excerpt: "From trusted bike components to complete race-ready builds, discover how Merlin Cycles has supported riders for over 30 years with quality products, strong value, and cycling expertise.",
+        content: `Few names in online cycling retail have built the long-term trust that <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> has earned since 1993. Over three decades, the brand has grown from a specialist bike retailer into a global destination for riders looking for performance, reliability, and excellent value.
+
+        **A Legacy Built Around Riders**
+
+        For 30 years, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> has focused on what cyclists actually need: dependable products, practical price points, and options for every riding style. Whether you're upgrading road <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Bikes</a>, setting up a gravel machine, or building your first serious commuter, the platform offers a broad range that scales with your goals.
+
+        **From Parts to Full Performance Setups**
+
+        One of the strengths of <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> is that riders can source everything in one place, from drivetrain upgrades and wheelsets to helmets and nutrition. That complete ecosystem makes it easier to build consistent, race-ready <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Bikes</a> without piecing orders together from multiple stores.
+
+        **Why the 1993-2026 Journey Matters**
+
+        Cycling trends have changed dramatically since the early 1990s, from frame materials and electronic shifting to aero optimization and wider tire standards. Through each transition, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> has remained relevant by continuously expanding product choice and supporting both experienced racers and developing riders.
+
+        **Trusted for Modern Cycling Needs**
+
+        Today's riders want more than just parts on a shelf. They need reliable availability, premium brands, and products that hold up under real mileage. From lightweight race frames to durable all-season <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Bikes</a>, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> continues to meet those expectations.
+
+        Celebrating 30 years is more than a milestone. It reflects sustained commitment to the cycling community and to riders who demand performance gear that works every day. If you're planning your next upgrade, exploring what's new at <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e9f0UzfcIrAzUZB9_akNdr7DX48LYAm2hJdJ9rs_biHiP_aG7okqBSK8wIdianPzZ4yWliTNzY1oTBxcXk_c&new=https%3A%2F%2Fwww.merlincycles.com%2F" target="_blank">Merlin Cycles</a> is a smart next step.`,
+        category: "product-review",
+        image: "https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?w=800&h=600&fit=crop",
+        date: "2026-04-11",
+        author: "Oliver Bennett"
     }
 ];
