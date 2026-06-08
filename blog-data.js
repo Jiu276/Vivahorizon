@@ -710,7 +710,7 @@ With over 1.6 million tickets out there, your next adventure is probably already
         excerpt: "Tired of smelly bins and wasted food? Discover how the right kitchen composting machine can transform everyday scraps into rich, garden-ready compost—without the mess, odor, or guesswork.",
         content: `For years, I kept a small bowl on the counter for vegetable peels and coffee grounds, fully intending to "start composting someday." That bowl always ended up overflowing, smelling slightly suspicious by day three, and eventually getting dumped into the regular trash with a guilty shrug. Sound familiar? If your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> have never turned into that dark, crumbly "black gold" gardeners rave about, the problem probably isn't your intentions—it's the method.
 
-        <img src="kitchen-scraps-prep.jpg" alt="Fresh vegetables and kitchen scraps ready for composting">
+        <img src="kitchen-scraps-peels.jpg" alt="Vegetable peels, fruit scraps, and organic kitchen waste ready for composting">
 
         **Why Traditional Composting Fails Indoors**
 
@@ -718,11 +718,13 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         The turning point for me came when I stopped treating composting as a weekend project and started looking for a dedicated <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> designed to handle daily <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> quietly and efficiently. Modern countertop composters use controlled heat, grinding, or dehydration to break down food waste in hours—not months.
 
+        <img src="composting-machine.jpg" alt="A modern composting machine for processing kitchen food waste">
+
         **What "Black Gold" Actually Means**
 
         Finished compost—that rich, dark material gardeners call black gold—isn't just trendy language. It's nutrient-dense organic matter that improves soil structure, retains moisture, and feeds plants naturally. When your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> leftovers become compost instead of landfill waste, you're closing a loop that benefits your home and the environment.
 
-        <img src="compost-black-gold.jpg" alt="Rich dark compost ready to nourish garden plants">
+        <img src="black-gold-soil.jpg" alt="Hands holding rich dark compost soil known as black gold">
 
         The best <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> options produce output you can use directly in houseplants, balcony herbs, or community garden plots. No more waiting six months for a pile to decompose. No more guessing whether it's "ready."
 
@@ -735,15 +737,19 @@ With over 1.6 million tickets out there, your next adventure is probably already
         - **Output type**: Some machines create dry, ground material; others produce ready-to-use compost.
         - **Energy use**: Countertop electric models vary in wattage—check running costs if you'll use it daily.
 
+        <img src="outdoor-compost-bin.jpg" alt="Outdoor compost bin for collecting and breaking down organic kitchen waste">
+
         Browsing trusted retailers like <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> can help you compare quality options and find a <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> that matches your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> setup and household size.
 
         **Small Habits, Big Impact**
 
         Once the right equipment is in place, composting becomes automatic. Coffee grounds, banana peels, eggshells, and vegetable trimmings go in after dinner. By morning, you've got usable material instead of trash bag weight. My counter bowl disappeared entirely—and so did the guilt.
 
+        <img src="garden-compost-soil.jpg" alt="Garden shovel filled with finished compost ready for planting">
+
         If you've been on the fence, this is the season to upgrade. The right <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> turns a messy chore into a simple daily ritual. Visit <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> to explore options and finally give your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> the second life they deserve.`,
         category: "product-review",
-        image: "kitchen-compost-cover.jpg",
+        image: "kitchen-scraps-peels.jpg",
         date: "2026-06-18",
         author: "Jennifer Brown"
     }
