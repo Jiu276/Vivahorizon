@@ -107,6 +107,10 @@ function displayArticle(post) {
         else if (paragraph.startsWith('-')) {
             return `<ul><li>${paragraph.substring(1).trim()}</li></ul>`;
         }
+        // Handle inline images
+        else if (paragraph.startsWith('<img')) {
+            return `<figure class="article-inline-image">${paragraph}</figure>`;
+        }
         // Regular paragraphs with bold text support
         else {
             // Convert **text** to <strong>text</strong>
