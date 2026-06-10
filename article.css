@@ -46,8 +46,7 @@
     font-size: 1.1rem;
 }
 
-.article-clicks,
-.article-orders {
+.article-clicks {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -55,8 +54,7 @@
     font-size: 0.95rem;
 }
 
-.article-clicks i,
-.article-orders i {
+.article-clicks i {
     color: var(--primary-color);
 }
 
