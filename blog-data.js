@@ -710,49 +710,51 @@ With over 1.6 million tickets out there, your next adventure is probably already
         excerpt: "My grandfather had one rule about footwear: buy fewer pairs, but buy them properly made. Decades later, discovering Goodyear welted shoes from Grenson finally turned that old advice into something I actually understood.",
         content: `Growing up, I thought my grandfather was being dramatic. Every time I reached for another pair of cheap trainers, he'd say the same thing: "Buy one proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a>, look after it, and it will look after you." I nodded, then ignored him completely. Fast fashion was faster, cheaper, and honestly easier.
 
-        Then I found myself replacing the same styles every year—scuffed toes, collapsed soles, uppers cracking after one rainy season. That's when his rule stopped sounding old-fashioned and started sounding practical. Especially once I discovered <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, a British brand built on Goodyear welted construction and genuine <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> craftsmanship.
+        Then I found myself replacing the same styles every year—scuffed toes, collapsed soles, uppers cracking after one rainy season. That's when his rule stopped sounding old-fashioned and started sounding practical. Especially once I landed on <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>—the Northamptonshire shoemaker handmaking footwear since 1866, and one of the earliest names in British Goodyear welted construction.
 
-        <img src="goodyear-welted-leather.jpg" alt="Premium leather used in Goodyear welted shoe construction">
+        <img src="grenson-nn07-mule.jpg" alt="Grenson NN.07 leather mule — handmade Goodyear welted footwear from grenson.com">
 
         **What Goodyear Welted Actually Means**
 
-        If you've never looked closely at how a quality <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> is built, Goodyear welting can sound like marketing jargon. It isn't. The upper, insole, and welt are stitched together, then the sole is attached to that welt—not directly glued to the upper. The result is a <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> that holds its shape, handles moisture better, and—crucially—can be resoled when the bottom wears out.
+        If you've never looked closely at how a quality <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> is built, Goodyear welting can sound like marketing jargon. It isn't. The upper, insole, and welt are stitched together, then the sole is attached to that welt—not glued straight to the upper. The result is a <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> that holds its shape, handles moisture better, and—crucially—can be resoled when the bottom wears out.
 
-        That last part is what changed everything for me. With cemented fast-fashion footwear, once the sole goes, the whole <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> goes. With Goodyear welted pairs from makers like <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, you're buying something designed for <a href="https://www.grenson.com/uk/" target="_blank">Repair</a>, not replacement.
+        On the <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> site, the "How We Make Our Shoes" section shows exactly that process inside their Northamptonshire factory—hands, leather, and machinery working together the way proper <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> footwear always has.
 
-        <img src="shoe-craft-workshop.jpg" alt="Traditional shoemaking workshop with heritage craftsmanship tools">
+        <img src="grenson-factory-goodyear.jpg" alt="Shoes being made in the Grenson factory — Goodyear welted craftsmanship">
+
+        That last part is what changed everything for me. With cemented fast-fashion footwear, once the sole goes, the whole <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> goes. With Goodyear welted pairs from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, you're buying something designed for <a href="https://www.grenson.com/uk/" target="_blank">Repair</a>, not replacement.
 
         **Why Grenson Made the Rule Click**
 
-        <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> has been making footwear since 1866, and browsing the collection there feels less like scrolling a trend catalogue and more like stepping into a proper <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> archive. Brogues, boots, loafers—styles that don't panic every time the fashion cycle turns.
+        Browsing <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> feels less like chasing trends and more like entering a proper British shoemaking archive. Brogues, boots, loafers, mules, sneakers—the G:One range made entirely by hand in England, the G:Two line designed and quality-controlled in Northamptonshire. Styles that don't panic every time the fashion cycle turns.
 
-        What sold me wasn't just the history. It was the wearability. The leather breaks in instead of breaking down. The silhouettes work with a suit, with jeans, with the kind of everyday rotation where one good pair beats three mediocre ones. My grandfather wasn't preaching austerity. He was describing value over time.
+        The NN.07 + Grenson mule collaboration caught my eye immediately: black leather, clean lines, the kind of <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> that looks sharp with tailoring but relaxed enough for everyday wear. My grandfather wouldn't have worn a mule—but he absolutely would have approved of the construction.
 
-        <img src="classic-leather-shoes.jpg" alt="Classic leather dress shoes displayed on a heritage-style shelf">
+        <img src="grenson-ymc-derby.jpg" alt="Grenson + YMC collaboration — brown suede Goodyear welted derby shoes">
 
         **Repair Changes the Math Completely**
 
-        Here's the part fast fashion never mentions: a resole costs a fraction of a new pair, and a well-made upper can survive multiple <a href="https://www.grenson.com/uk/" target="_blank">Repair</a> cycles. Goodyear welted construction is built for exactly that. When you invest in a proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a>, you're not just buying leather and rubber—you're buying a platform that cobblers can actually work on.
+        Here's what fast fashion never mentions: Grenson offers online <a href="https://www.grenson.com/uk/" target="_blank">Repair</a> services—resole and heel work from around £170—because Goodyear welted uppers are built to be rebuilt. A well-made leather upper can survive multiple repair cycles. When you invest in a proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a>, you're not just buying leather and rubber—you're buying a platform cobblers can actually work on.
 
-        That shift in thinking rewired my wardrobe budget. Instead of two disposable pairs a year, I started thinking in decades. One quality pair from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, regular conditioning, sole work when needed. Suddenly my grandfather's math made perfect sense.
+        That shift rewired my wardrobe budget. Instead of two disposable pairs a year, I started thinking in decades. One quality pair from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, regular conditioning, a factory resole when needed. Suddenly my grandfather's math made perfect sense.
 
-        <img src="shoe-repair-care.jpg" alt="Leather shoe care and repair essentials for long-lasting footwear">
+        <img src="grenson-mule-lifestyle.jpg" alt="Grenson mule worn in everyday life — built to last and age beautifully">
 
         **Heritage That Still Feels Relevant**
 
-        There's a difference between vintage branding and real <a href="https://www.grenson.com/uk/" target="_blank">heritage</a>. <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> sits firmly in the second camp—still making Goodyear welted footwear in Northamptonshire, still prioritising construction you can see and feel, still offering styles that reward patience rather than impulse.
+        There's a difference between vintage branding and real <a href="https://www.grenson.com/uk/" target="_blank">heritage</a>. <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> sits firmly in the second camp—still manufacturing in Northamptonshire since 1866, still offering a dedicated Heritage & Craft section on the site, still collaborating with brands like YMC while honouring the craft William Green started over 150 years ago.
 
         I finally understand why he cared so much. A proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> isn't a seasonal accessory. It's a daily tool—and when it's built right, it becomes part of your story the way his polished brogues were part of his.
 
-        <img src="brogue-dress-shoes.jpg" alt="Polished brogue dress shoes representing timeless Grenson style">
+        <img src="grenson-heritage-htsi.jpg" alt="Grenson heritage — British shoemaking tradition meets modern style">
 
         **The Rule I Wish I'd Followed Sooner**
 
-        If you're tired of replacing footwear every few seasons, start with one Goodyear welted pair and learn basic care. Visit <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, compare the construction, and think about cost per wear instead of checkout price. My grandfather didn't know the term "Goodyear welted," but he absolutely understood the philosophy—and <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> is where that philosophy finally clicked for me.
+        If you're tired of replacing footwear every few seasons, start with one Goodyear welted pair and learn basic care. Visit <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, explore Shop Repairs, read Heritage & Craft, and think about cost per wear instead of checkout price. My grandfather didn't know the term "Goodyear welted," but he absolutely understood the philosophy—and <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> is where that philosophy finally clicked for me.
 
         Buy fewer. Buy better. Look after them. Get them repaired when they need it. Turns out the old man was right all along.`,
         category: "product-review",
-        image: "grenson-heritage-shoes-cover.jpg",
+        image: "grenson-nn07-mule.jpg",
         date: "2026-06-03",
         adDate: "2026-06-18",
         clicks: 12400,
