@@ -752,6 +752,16 @@ body {
     gap: 5px;
 }
 
+.blog-clicks {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.blog-clicks i {
+    color: var(--primary-color);
+}
+
 .read-more {
     color: var(--primary-color);
     text-decoration: none;

@@ -65,6 +65,10 @@ function appendCacheBuster(src, version) {
     return `${src}${separator}v=${encodeURIComponent(version || Date.now())}`;
 }
 
+function formatNumber(num) {
+    return Number(num).toLocaleString('en-US');
+}
+
 function displayArticle(post) {
     // Set page title
     document.title = `${post.title} - Vivahorizon`;
@@ -87,6 +91,23 @@ function displayArticle(post) {
     document.querySelector('.article-date').textContent = formattedDate;
     document.querySelector('.article-title').textContent = post.title;
     document.querySelector('.author-name').textContent = post.author;
+
+    const statsElement = document.getElementById('articleStats');
+    if (statsElement) {
+        if (post.clicks != null) {
+            const ordersText = post.orders != null
+                ? `<span class="article-stat"><i class="fas fa-shopping-bag"></i> ${formatNumber(post.orders)} orders</span>`
+                : '';
+            statsElement.innerHTML = `
+                <span class="article-stat"><i class="fas fa-mouse-pointer"></i> ${formatNumber(post.clicks)} clicks</span>
+                ${ordersText}
+            `;
+            statsElement.hidden = false;
+        } else {
+            statsElement.innerHTML = '';
+            statsElement.hidden = true;
+        }
+    }
     
     const articleImage = document.querySelector('.article-image');
     articleImage.src = appendCacheBuster(post.image, post.date);

@@ -755,8 +755,8 @@ With over 1.6 million tickets out there, your next adventure is probably already
         Buy fewer. Buy better. Look after them. Get them repaired when they need it. Turns out the old man was right all along.`,
         category: "product-review",
         image: "article-tan-oxford-cover.jpg",
-        date: "2026-06-05",
-        adDate: "2026-06-18",
+        date: "2026-05-05",
+        adDate: "2026-06-05",
         clicks: 12400,
         orders: 124,
         author: "James Whitmore"

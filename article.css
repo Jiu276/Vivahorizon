@@ -45,6 +45,26 @@
     font-size: 1.1rem;
 }
 
+.article-stats {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.article-stat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--text-light);
+    font-size: 0.95rem;
+}
+
+.article-stat i {
+    color: var(--primary-color);
+}
+
 .author-name {
     color: var(--primary-color);
 }

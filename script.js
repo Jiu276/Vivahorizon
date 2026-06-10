@@ -102,6 +102,7 @@ function createBlogCard(post) {
                     <i class="far fa-calendar"></i>
                     ${formattedDate}
                 </span>
+                ${post.clicks != null ? `<span class="blog-clicks"><i class="fas fa-mouse-pointer"></i> ${post.clicks.toLocaleString('en-US')} clicks</span>` : ''}
                 <a href="#" class="read-more" onclick="event.stopPropagation(); openArticle(${post.id})">
                     Read More
                 </a>
