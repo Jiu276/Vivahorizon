@@ -712,7 +712,7 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         Then I found myself replacing the same styles every year—scuffed toes, collapsed soles, uppers cracking after one rainy season. That's when his rule stopped sounding old-fashioned and started sounding practical. Especially once I landed on <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>—the Northamptonshire shoemaker handmaking footwear since 1866, and one of the earliest names in British Goodyear welted construction.
 
-        <img src="grenson-nn07-mule.jpg" alt="Grenson NN.07 leather mule — handmade Goodyear welted footwear from grenson.com">
+        <img src="article-black-derby-welt.jpg" alt="Black leather derby shoes showing classic welted construction">
 
         **What Goodyear Welted Actually Means**
 
@@ -720,7 +720,7 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         On the <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> site, the "How We Make Our Shoes" section shows exactly that process inside their Northamptonshire factory—hands, leather, and machinery working together the way proper <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> footwear always has.
 
-        <img src="grenson-factory-goodyear.jpg" alt="Shoes being made in the Grenson factory — Goodyear welted craftsmanship">
+        <img src="article-heritage-leather-craft.jpg" alt="Handcrafted leather goods representing traditional shoemaking heritage">
 
         That last part is what changed everything for me. With cemented fast-fashion footwear, once the sole goes, the whole <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> goes. With Goodyear welted pairs from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, you're buying something designed for <a href="https://www.grenson.com/uk/" target="_blank">Repair</a>, not replacement.
 
@@ -728,9 +728,9 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         Browsing <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> feels less like chasing trends and more like entering a proper British shoemaking archive. Brogues, boots, loafers, mules, sneakers—the G:One range made entirely by hand in England, the G:Two line designed and quality-controlled in Northamptonshire. Styles that don't panic every time the fashion cycle turns.
 
-        The NN.07 + Grenson mule collaboration caught my eye immediately: black leather, clean lines, the kind of <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> that looks sharp with tailoring but relaxed enough for everyday wear. My grandfather wouldn't have worn a mule—but he absolutely would have approved of the construction.
+        What sold me wasn't a single silhouette. It was the consistency: leather that breaks in instead of breaking down, silhouettes that work with tailoring or denim, and construction you can actually see in the welt line. My grandfather wasn't preaching austerity. He was describing value over time.
 
-        <img src="grenson-ymc-derby.jpg" alt="Grenson + YMC collaboration — brown suede Goodyear welted derby shoes">
+        <img src="article-leather-loafers.jpg" alt="Classic leather loafers in brown, blue, and grey tones">
 
         **Repair Changes the Math Completely**
 
@@ -738,15 +738,15 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         That shift rewired my wardrobe budget. Instead of two disposable pairs a year, I started thinking in decades. One quality pair from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, regular conditioning, a factory resole when needed. Suddenly my grandfather's math made perfect sense.
 
-        <img src="grenson-mule-lifestyle.jpg" alt="Grenson mule worn in everyday life — built to last and age beautifully">
+        <img src="article-worn-leather-boots.jpg" alt="Well-worn leather boots built to last through years of daily use">
 
         **Heritage That Still Feels Relevant**
 
-        There's a difference between vintage branding and real <a href="https://www.grenson.com/uk/" target="_blank">heritage</a>. <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> sits firmly in the second camp—still manufacturing in Northamptonshire since 1866, still offering a dedicated Heritage & Craft section on the site, still collaborating with brands like YMC while honouring the craft William Green started over 150 years ago.
+        There's a difference between vintage branding and real <a href="https://www.grenson.com/uk/" target="_blank">heritage</a>. <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> sits firmly in the second camp—still manufacturing in Northamptonshire since 1866, still offering a dedicated Heritage & Craft section on the site, still honouring the craft William Green started over 150 years ago.
 
         I finally understand why he cared so much. A proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> isn't a seasonal accessory. It's a daily tool—and when it's built right, it becomes part of your story the way his polished brogues were part of his.
 
-        <img src="grenson-heritage-htsi.jpg" alt="Grenson heritage — British shoemaking tradition meets modern style">
+        <img src="article-tan-oxford-cover.jpg" alt="Tan leather oxford dress shoes in a classic menswear setting">
 
         **The Rule I Wish I'd Followed Sooner**
 
@@ -754,8 +754,8 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         Buy fewer. Buy better. Look after them. Get them repaired when they need it. Turns out the old man was right all along.`,
         category: "product-review",
-        image: "grenson-nn07-mule.jpg",
-        date: "2026-06-03",
+        image: "article-tan-oxford-cover.jpg",
+        date: "2026-06-04",
         adDate: "2026-06-18",
         clicks: 12400,
         orders: 124,
