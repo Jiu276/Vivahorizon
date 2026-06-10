@@ -4,14 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
     const articleId = parseInt(urlParams.get('id'));
     
-    // Get article from sessionStorage or find by ID
-    let currentPost = JSON.parse(sessionStorage.getItem('currentPost'));
-    
-    if (!currentPost || currentPost.id !== articleId) {
-        currentPost = blogPosts.find(post => post.id === articleId);
-    }
+    // Always load latest article data from blogPosts (avoid stale sessionStorage cache)
+    const currentPost = blogPosts.find(post => post.id === articleId);
     
     if (currentPost) {
+        sessionStorage.setItem('currentPost', JSON.stringify(currentPost));
         displayArticle(currentPost);
         displayRelatedArticles(currentPost);
     } else {
@@ -60,6 +57,14 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Display article content
+function appendCacheBuster(src, version) {
+    if (!src || src.startsWith('http')) {
+        return src;
+    }
+    const separator = src.includes('?') ? '&' : '?';
+    return `${src}${separator}v=${encodeURIComponent(version || Date.now())}`;
+}
+
 function displayArticle(post) {
     // Set page title
     document.title = `${post.title} - Vivahorizon`;
@@ -84,7 +89,7 @@ function displayArticle(post) {
     document.querySelector('.author-name').textContent = post.author;
     
     const articleImage = document.querySelector('.article-image');
-    articleImage.src = post.image;
+    articleImage.src = appendCacheBuster(post.image, post.date);
     articleImage.alt = post.title;
     
     // Format content with proper paragraphs and support markdown-style formatting
@@ -109,7 +114,11 @@ function displayArticle(post) {
         }
         // Handle inline images
         else if (paragraph.startsWith('<img')) {
-            return `<figure class="article-inline-image">${paragraph}</figure>`;
+            const cachedImg = paragraph.replace(
+                /src="([^"?]+)(\?[^"]*)?"/,
+                (match, path) => `src="${appendCacheBuster(path, post.date)}"`
+            );
+            return `<figure class="article-inline-image">${cachedImg}</figure>`;
         }
         // Regular paragraphs with bold text support
         else {
@@ -132,7 +141,7 @@ function displayRelatedArticles(currentPost) {
     
     relatedGrid.innerHTML = relatedPosts.map(post => `
         <div class="related-card" onclick="goToArticle(${post.id})">
-            <img src="${post.image}" alt="${post.title}" class="related-image">
+            <img src="${post.image}${post.image && !post.image.startsWith('http') ? `?v=${encodeURIComponent(post.date)}` : ''}" alt="${post.title}" class="related-image">
             <div class="related-content">
                 <h3 class="related-title">${post.title}</h3>
                 <p class="related-excerpt">${post.excerpt.substring(0, 100)}...</p>

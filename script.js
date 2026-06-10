@@ -88,7 +88,7 @@ function createBlogCard(post) {
 
     card.innerHTML = `
         <div class="blog-image-wrapper">
-            <img src="${post.image}" alt="${post.title}" class="blog-image" loading="lazy">
+            <img src="${post.image}${post.image && !post.image.startsWith('http') ? `?v=${encodeURIComponent(post.date)}` : ''}" alt="${post.title}" class="blog-image" loading="lazy">
             <div class="blog-image-overlay">
                 <span class="view-article">View Article</span>
             </div>
