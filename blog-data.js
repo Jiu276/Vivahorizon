@@ -706,51 +706,57 @@ With over 1.6 million tickets out there, your next adventure is probably already
     },
     {
         id: 29,
-        title: "If Your Kitchen Scraps Have Never Turned Into Black Gold, You Just Haven't Met the Right Machine Yet",
-        excerpt: "Tired of smelly bins and wasted food? Discover how the right kitchen composting machine can transform everyday scraps into rich, garden-ready compost—without the mess, odor, or guesswork.",
-        content: `For years, I kept a small bowl on the counter for vegetable peels and coffee grounds, fully intending to "start composting someday." That bowl always ended up overflowing, smelling slightly suspicious by day three, and eventually getting dumped into the regular trash with a guilty shrug. Sound familiar? If your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> have never turned into that dark, crumbly "black gold" gardeners rave about, the problem probably isn't your intentions—it's the method.
+        title: "Goodyear Welted and Still Going: Why My Grandfather's Shoe Rule Finally Makes Sense With Grenson",
+        excerpt: "My grandfather had one rule about footwear: buy fewer pairs, but buy them properly made. Decades later, discovering Goodyear welted shoes from Grenson finally turned that old advice into something I actually understood.",
+        content: `Growing up, I thought my grandfather was being dramatic. Every time I reached for another pair of cheap trainers, he'd say the same thing: "Buy one proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a>, look after it, and it will look after you." I nodded, then ignored him completely. Fast fashion was faster, cheaper, and honestly easier.
 
-        <img src="kitchen-scraps-peels.jpg" alt="Vegetable peels, fruit scraps, and organic kitchen waste ready for composting">
+        Then I found myself replacing the same styles every year—scuffed toes, collapsed soles, uppers cracking after one rainy season. That's when his rule stopped sounding old-fashioned and started sounding practical. Especially once I discovered <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, a British brand built on Goodyear welted construction and genuine <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> craftsmanship.
 
-        **Why Traditional Composting Fails Indoors**
+        <img src="goodyear-welted-leather.jpg" alt="Premium leather used in Goodyear welted shoe construction">
 
-        Backyard compost piles work beautifully when you have space, patience, and the right balance of greens and browns. But for apartment dwellers or anyone without a garden, the process feels impractical. <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> waste sits in bins, attracts fruit flies, and creates that unmistakable sour smell. You end up feeling like you're failing at sustainability rather than making progress.
+        **What Goodyear Welted Actually Means**
 
-        The turning point for me came when I stopped treating composting as a weekend project and started looking for a dedicated <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> designed to handle daily <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> quietly and efficiently. Modern countertop composters use controlled heat, grinding, or dehydration to break down food waste in hours—not months.
+        If you've never looked closely at how a quality <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> is built, Goodyear welting can sound like marketing jargon. It isn't. The upper, insole, and welt are stitched together, then the sole is attached to that welt—not directly glued to the upper. The result is a <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> that holds its shape, handles moisture better, and—crucially—can be resoled when the bottom wears out.
 
-        <img src="composting-machine.jpg" alt="A modern composting machine for processing kitchen food waste">
+        That last part is what changed everything for me. With cemented fast-fashion footwear, once the sole goes, the whole <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> goes. With Goodyear welted pairs from makers like <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, you're buying something designed for <a href="https://www.grenson.com/uk/" target="_blank">Repair</a>, not replacement.
 
-        **What "Black Gold" Actually Means**
+        <img src="shoe-craft-workshop.jpg" alt="Traditional shoemaking workshop with heritage craftsmanship tools">
 
-        Finished compost—that rich, dark material gardeners call black gold—isn't just trendy language. It's nutrient-dense organic matter that improves soil structure, retains moisture, and feeds plants naturally. When your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> leftovers become compost instead of landfill waste, you're closing a loop that benefits your home and the environment.
+        **Why Grenson Made the Rule Click**
 
-        <img src="black-gold-soil.jpg" alt="Hands holding rich dark compost soil known as black gold">
+        <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> has been making footwear since 1866, and browsing the collection there feels less like scrolling a trend catalogue and more like stepping into a proper <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> archive. Brogues, boots, loafers—styles that don't panic every time the fashion cycle turns.
 
-        The best <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> options produce output you can use directly in houseplants, balcony herbs, or community garden plots. No more waiting six months for a pile to decompose. No more guessing whether it's "ready."
+        What sold me wasn't just the history. It was the wearability. The leather breaks in instead of breaking down. The silhouettes work with a suit, with jeans, with the kind of everyday rotation where one good pair beats three mediocre ones. My grandfather wasn't preaching austerity. He was describing value over time.
 
-        **Choosing the Right Machine for Your Space**
+        <img src="classic-leather-shoes.jpg" alt="Classic leather dress shoes displayed on a heritage-style shelf">
 
-        Not every composter fits every lifestyle. Before buying, consider:
+        **Repair Changes the Math Completely**
 
-        - **Capacity**: How much <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> does your household generate weekly?
-        - **Noise and odor**: Look for sealed units with carbon filters for apartment-friendly operation.
-        - **Output type**: Some machines create dry, ground material; others produce ready-to-use compost.
-        - **Energy use**: Countertop electric models vary in wattage—check running costs if you'll use it daily.
+        Here's the part fast fashion never mentions: a resole costs a fraction of a new pair, and a well-made upper can survive multiple <a href="https://www.grenson.com/uk/" target="_blank">Repair</a> cycles. Goodyear welted construction is built for exactly that. When you invest in a proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a>, you're not just buying leather and rubber—you're buying a platform that cobblers can actually work on.
 
-        <img src="outdoor-compost-bin.jpg" alt="Outdoor compost bin for collecting and breaking down organic kitchen waste">
+        That shift in thinking rewired my wardrobe budget. Instead of two disposable pairs a year, I started thinking in decades. One quality pair from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, regular conditioning, sole work when needed. Suddenly my grandfather's math made perfect sense.
 
-        Browsing trusted retailers like <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> can help you compare quality options and find a <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> that matches your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> setup and household size.
+        <img src="shoe-repair-care.jpg" alt="Leather shoe care and repair essentials for long-lasting footwear">
 
-        **Small Habits, Big Impact**
+        **Heritage That Still Feels Relevant**
 
-        Once the right equipment is in place, composting becomes automatic. Coffee grounds, banana peels, eggshells, and vegetable trimmings go in after dinner. By morning, you've got usable material instead of trash bag weight. My counter bowl disappeared entirely—and so did the guilt.
+        There's a difference between vintage branding and real <a href="https://www.grenson.com/uk/" target="_blank">heritage</a>. <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> sits firmly in the second camp—still making Goodyear welted footwear in Northamptonshire, still prioritising construction you can see and feel, still offering styles that reward patience rather than impulse.
 
-        <img src="garden-compost-soil.jpg" alt="Garden shovel filled with finished compost ready for planting">
+        I finally understand why he cared so much. A proper <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> isn't a seasonal accessory. It's a daily tool—and when it's built right, it becomes part of your story the way his polished brogues were part of his.
 
-        If you've been on the fence, this is the season to upgrade. The right <a href="https://www.grenson.com/uk/" target="_blank">Machine</a> turns a messy chore into a simple daily ritual. Visit <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> to explore options and finally give your <a href="https://www.grenson.com/uk/" target="_blank">Kitchen</a> <a href="https://www.grenson.com/uk/" target="_blank">Scraps</a> the second life they deserve.`,
+        <img src="brogue-dress-shoes.jpg" alt="Polished brogue dress shoes representing timeless Grenson style">
+
+        **The Rule I Wish I'd Followed Sooner**
+
+        If you're tired of replacing footwear every few seasons, start with one Goodyear welted pair and learn basic care. Visit <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, compare the construction, and think about cost per wear instead of checkout price. My grandfather didn't know the term "Goodyear welted," but he absolutely understood the philosophy—and <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> is where that philosophy finally clicked for me.
+
+        Buy fewer. Buy better. Look after them. Get them repaired when they need it. Turns out the old man was right all along.`,
         category: "product-review",
-        image: "kitchen-scraps-peels.jpg",
-        date: "2026-06-18",
-        author: "Jennifer Brown"
+        image: "grenson-heritage-shoes-cover.jpg",
+        date: "2026-06-03",
+        adDate: "2026-06-18",
+        clicks: 12400,
+        orders: 124,
+        author: "James Whitmore"
     }
 ];
