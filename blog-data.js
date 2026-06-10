@@ -720,7 +720,7 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         On the <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a> site, the "How We Make Our Shoes" section shows exactly that process inside their Northamptonshire factory—hands, leather, and machinery working together the way proper <a href="https://www.grenson.com/uk/" target="_blank">heritage</a> footwear always has.
 
-        <img src="article-heritage-leather-craft.jpg" alt="Handcrafted leather goods representing traditional shoemaking heritage">
+        <img src="article-heritage-leather-craft.jpg" alt="Brown leather wingtip brogue shoes with wooden shoe trees showing classic welted craftsmanship">
 
         That last part is what changed everything for me. With cemented fast-fashion footwear, once the sole goes, the whole <a href="https://www.grenson.com/uk/" target="_blank">Shoe</a> goes. With Goodyear welted pairs from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, you're buying something designed for <a href="https://www.grenson.com/uk/" target="_blank">Repair</a>, not replacement.
 
@@ -738,7 +738,7 @@ With over 1.6 million tickets out there, your next adventure is probably already
 
         That shift rewired my wardrobe budget. Instead of two disposable pairs a year, I started thinking in decades. One quality pair from <a href="https://www.grenson.com/uk/" target="_blank">Grenson</a>, regular conditioning, a factory resole when needed. Suddenly my grandfather's math made perfect sense.
 
-        <img src="article-worn-leather-boots.jpg" alt="Well-worn leather boots built to last through years of daily use">
+        <img src="article-worn-leather-boots.jpg" alt="Tan wingtip brogue dress shoes displayed in a heritage menswear boutique">
 
         **Heritage That Still Feels Relevant**
 
@@ -755,7 +755,7 @@ With over 1.6 million tickets out there, your next adventure is probably already
         Buy fewer. Buy better. Look after them. Get them repaired when they need it. Turns out the old man was right all along.`,
         category: "product-review",
         image: "article-tan-oxford-cover.jpg",
-        date: "2026-06-04",
+        date: "2026-06-05",
         adDate: "2026-06-18",
         clicks: 12400,
         orders: 124,
