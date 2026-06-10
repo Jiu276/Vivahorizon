@@ -92,21 +92,19 @@ function displayArticle(post) {
     document.querySelector('.article-title').textContent = post.title;
     document.querySelector('.author-name').textContent = post.author;
 
-    const statsElement = document.getElementById('articleStats');
-    if (statsElement) {
-        if (post.clicks != null) {
-            const ordersText = post.orders != null
-                ? `<span class="article-stat"><i class="fas fa-shopping-bag"></i> ${formatNumber(post.orders)} orders</span>`
-                : '';
-            statsElement.innerHTML = `
-                <span class="article-stat"><i class="fas fa-mouse-pointer"></i> ${formatNumber(post.clicks)} clicks</span>
-                ${ordersText}
-            `;
-            statsElement.hidden = false;
-        } else {
-            statsElement.innerHTML = '';
-            statsElement.hidden = true;
-        }
+    const metaTop = document.querySelector('.article-meta-top');
+    metaTop.querySelectorAll('.article-clicks, .article-orders').forEach(el => el.remove());
+    if (post.clicks != null) {
+        const clicksEl = document.createElement('span');
+        clicksEl.className = 'article-clicks';
+        clicksEl.innerHTML = `<i class="fas fa-mouse-pointer"></i> ${formatNumber(post.clicks)} clicks`;
+        metaTop.appendChild(clicksEl);
+    }
+    if (post.orders != null) {
+        const ordersEl = document.createElement('span');
+        ordersEl.className = 'article-orders';
+        ordersEl.innerHTML = `<i class="fas fa-shopping-bag"></i> ${formatNumber(post.orders)} orders`;
+        metaTop.appendChild(ordersEl);
     }
     
     const articleImage = document.querySelector('.article-image');

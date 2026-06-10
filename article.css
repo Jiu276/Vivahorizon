@@ -13,8 +13,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    gap: 1.5rem;
     margin-bottom: 1rem;
+    flex-wrap: wrap;
 }
 
 .article-category {
@@ -45,15 +46,8 @@
     font-size: 1.1rem;
 }
 
-.article-stats {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    margin-top: 1rem;
-}
-
-.article-stat {
+.article-clicks,
+.article-orders {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -61,7 +55,8 @@
     font-size: 0.95rem;
 }
 
-.article-stat i {
+.article-clicks i,
+.article-orders i {
     color: var(--primary-color);
 }
 
